@@ -12,12 +12,12 @@ export const profile = {
   linkedin: 'https://www.linkedin.com/in/miguelamontoyav',
   headline: 'Whatever the stack, it ships.',
   subheadline:
-    'Eight years of production experience across fintech, commerce, gaming and distributed systems. 40+ platforms delivered end to end — most of them in technologies I learned on the job.',
+    'Seven years of production experience across fintech, commerce, gaming and distributed systems. 40+ platforms delivered end to end — most of them in technologies I learned on the job.',
   stats: [
     { value: '503+', label: 'merged pull requests' },
     { value: '46', label: 'production repositories' },
     { value: '40+', label: 'platforms shipped' },
-    { value: '8', label: 'years of experience' },
+    { value: '7+', label: 'years of experience' },
   ],
 };
 
